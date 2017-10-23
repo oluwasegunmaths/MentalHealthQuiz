@@ -1,0 +1,17 @@
+<resources>
+    <string name="yes">TRUE</string>
+    <string name="app_name">PsychologyTest</string>
+    <string name="no">FALSE</string>
+    <string name="sleep_checkbox_question">4. Regarding sleep disorders in schizophrenia? (NOTE: checking wrong answers will attract negative marks)</string>
+    <string name="sleep_checkbox_option1">Difficulty sleeping usually occurs weeks to months before onset of florid symptoms of schizophrenia</string>
+    <string name="sleep_checkbox_option2">There is usually intermittent awakening and problems of sleep maintenance</string>
+    <string name="sleep_checkbox_option3">There is usually early morning wakening</string>
+    <string name="sleep_checkbox_option4">There is usually difficulty in sleep initiation </string>
+    <string name="hallucination_question">3. The word that qualifies a situation in which someone hears voices of unseen people in clear consciousness is called?</string>
+    <string name="mental_health_quiz">MENTAL HEALTH QUIZ</string>
+    <string name="dep_question"> 1.Changing the pattern of thinking (cognitive psychotherapy) is useful in the treatment of all forms of depression?</string>
+    <string name="dep_quetion2">5.Deppresion is more common in women?</string>
+    <string name="anxiety_question">2.Most phobias and other anxiety disorders in children are usually outgrown as they develop into adulthood?</string>
+    <string name="hint">Please type the word here</string>
+    <string name="submit">SUBMIT</string>
+</resources>
